@@ -138,3 +138,30 @@ main {
         text-decoration: none;
 }
 }
+
+
+.wrap3{
+   display: flex;
+   justify-content: space-between;
+ .box1{
+   background-color: #141024;
+   h3{
+    margin-top: 5px;
+    color: #FFFFFF;
+   }
+
+   h2{
+    color: #fff;
+   }
+
+   p{
+    color: #fff;
+   }
+
+   a{
+    color: #D52027;
+    text-decoration: none;
+   }
+ }
+ 
+}
